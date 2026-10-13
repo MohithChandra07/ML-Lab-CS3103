@@ -547,7 +547,7 @@ def create_report(output_filename="2403CS04_Lab06_Report.pdf"):
     story.append(Paragraph("12. Public Source Code Repository & Verification Link", h1_style))
     code_text = (
         "All experimental pipelines, grouped cross-validation routines, and report scripts are publicly available at:<br/>"
-        "&bull; <b>Public GitHub Repository:</b> <font color='#0d47a1'><u>https://github.com/MohithChandra07/ML-Lab-CS3103/tree/main/Lab-06</u></font><br/>"
+        "&bull; <b>Public GitHub Repository:</b> <font color='#0d47a1'><u>https://github.com/MohithChandra07/ML-Lab-CS3103</u></font><br/>"
         "&bull; <b>Direct Submission Form Link:</b> <font color='#0d47a1'><u>https://forms.gle/RCiyByKQtEbeoNVB7</u></font><br/>"
         "&bull; <b>Reproducibility:</b> Generated via Python 3.14 with Scikit-Learn 1.9, Pandas 3.0, and ReportLab 5.0 on macOS arm64."
     )
